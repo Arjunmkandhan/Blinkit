@@ -51,9 +51,4 @@ You can easily tweak the timing by modifying the variable in the __init__ method
 
 self.interval_ms = 12_000 : Change how often the prompt appears (in milliseconds). The default is 12 seconds. For example, changing this to 60000 will make it appear only once a minute.
 
-Author   
-Arjun M Kandhan
-=======
-# Blinkit
-Stressed About Dry eyes ? Well all you have to do is blink !!! 
 
