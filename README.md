@@ -1,3 +1,4 @@
+
 # Eye Blink Reminder Overlay
 
 A lightweight, unobtrusive background utility built in Python. This program helps reduce eye strain during long screen sessions by displaying a transparent, animated overlay prompting you to blink 5 times per minute, evenly spaced out.
@@ -52,3 +53,7 @@ self.interval_ms = 12_000 : Change how often the prompt appears (in milliseconds
 
 Author   
 Arjun M Kandhan
+=======
+# Blinkit
+Stressed About Dry eyes ? Well all you have to do is blink !!! 
+
